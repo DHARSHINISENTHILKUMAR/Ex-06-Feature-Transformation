@@ -14,8 +14,8 @@ Apply Feature Transformation techniques to all the features of the data set
 Print the transformed features
 ## PROGRAM:
 ~~~
-# NAME: DHARSHINI S
-# REG NO: 212220220009
+NAME: DHARSHINI S
+REG NO: 212220220009
 
 import numpy as np
 import pandas as pd
